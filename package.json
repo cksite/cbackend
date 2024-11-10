@@ -1,0 +1,16 @@
+{
+  "name": "cbackend",
+  "version": "1.0.0",
+  "description": "learning backend from chai or code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "chandan shah",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
